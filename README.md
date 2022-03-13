@@ -2,7 +2,7 @@
 Code for "Beyond single receptive field: A receptive field fusion-and-stratification network for airborne laser scanning point cloud classification" in ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS Journal Ph &amp; RS).
 
 ## Overview
-You can train or test them on ISPRS Vaihingen 3D, LASDU, and DFC2019 (US3D) dataset.
+You can train or test RFFS-Net on ISPRS Vaihingen 3D, LASDU, and DFC2019 (US3D) dataset.
 
 ## Dependencies
 python == 3.6,
