@@ -9,4 +9,4 @@ python == 3.6,
 pytorch1.7
 
 ## Code Details
-The specific code of our RFFS-Net will be released immediately after the paper is published.
+The specific code of our RFFS-Net will be released soon.
