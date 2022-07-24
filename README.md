@@ -3,7 +3,7 @@ Code for "[Beyond single receptive field: A receptive field fusion-and-stratific
 
 
 <p align="middle">
-  <img src="figure/flowchart.jpg">
+  <img src="flowchart.jpg">
 </p>
 
 ## Overview
