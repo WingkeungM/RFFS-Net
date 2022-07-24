@@ -8,5 +8,3 @@ You can train or test RFFS-Net on ISPRS Vaihingen 3D, LASDU, and DFC2019 (US3D) 
 python == 3.6,
 pytorch1.7
 
-## Code Details
-The specific code of our RFFS-Net will be released soon.
