@@ -20,8 +20,16 @@ You can train or test RFFS-Net on ISPRS Vaihingen 3D, LASDU, and DFC2019 (US3D) 
 - DFC2019 (US3D)
 
 ## Usage
+- **Stage1** *Install pointnet2-ops*
 
-- **Stage1** *Train*
+  Install pointnet2-ops.
+
+  ```
+  cd pointnet2_ops_lib
+  python setup.py install
+  ```
+
+- **Stage2** *Train*
 
   Train our RFFS-Net.
 
@@ -30,7 +38,7 @@ You can train or test RFFS-Net on ISPRS Vaihingen 3D, LASDU, and DFC2019 (US3D) 
   python train.py
   ```
 
-- **Stage2** *Test*
+- **Stage3** *Test*
 
   Test our RFFS-Net.
   ```
