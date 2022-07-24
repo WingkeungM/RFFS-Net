@@ -5,8 +5,34 @@ Code for "[Beyond single receptive field: A receptive field fusion-and-stratific
 You can train or test RFFS-Net on ISPRS Vaihingen 3D, LASDU, and DFC2019 (US3D) dataset.
 
 ## Dependencies
-python == 3.6,
-pytorch1.7
+- Python 3.6
+- PyTorch 1.7
+- cuda 11
+
+## Datasets
+- ISPRS Vaihingen 3D
+- LSADU 
+- DFC2019 (US3D)
+
+## Usage
+
+- **Stage1** *Train*
+  Train our RFFS-Net.
+
+  ```
+  cd tools
+  python train.py
+  ```
+
+- **Stage2** *Test*
+  Test our RFFS-Net.
+  ```
+  cd tools
+  python test.py
+  ```
+
+## References
+This repo is built based on [PointConv_PyTorch](https://github.com/DylanWusee/pointconv_pytorch). Thanks for their great work!
 
 ### BibTeX
 
