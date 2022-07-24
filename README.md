@@ -17,6 +17,7 @@ You can train or test RFFS-Net on ISPRS Vaihingen 3D, LASDU, and DFC2019 (US3D) 
 ## Usage
 
 - **Stage1** *Train*
+
   Train our RFFS-Net.
 
   ```
@@ -25,6 +26,7 @@ You can train or test RFFS-Net on ISPRS Vaihingen 3D, LASDU, and DFC2019 (US3D) 
   ```
 
 - **Stage2** *Test*
+
   Test our RFFS-Net.
   ```
   cd tools
