@@ -1,5 +1,5 @@
 # RFFS-Net
-Code for "[Beyond single receptive field: A receptive field fusion-and-stratification network for airborne laser scanning point cloud classification](https://www.sciencedirect.com/science/article/pii/S0924271622000922?via%3Dihub)" in ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS Journal Ph &amp; RS).
+Code for "[Beyond single receptive field: A receptive field fusion-and-stratification network for airborne laser scanning point cloud classification](https://www.sciencedirect.com/science/article/pii/S0924271622000922?via%3Dihub)"[[arXiv](https://arxiv.org/pdf/2207.10278.pdf)] in ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS Journal Ph &amp; RS).
 
 
 <p align="middle">
